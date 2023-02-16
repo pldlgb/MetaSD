@@ -1,6 +1,20 @@
-# MetaSD
+# MetaSD: Self-Distillation with Meta Learning for Knowledge Graph Completion
 
 ![](assets/FB237rel.png)
+
+Code for the paper "[Self-Distillation with Meta Learning for Knowledge Graph Completion](https://aclanthology.org/2022.findings-emnlp.149/)" (EMNLP 2022).
+
+If you use this code, please cite the paper using the BibTeX reference below.
+
+```bibtex
+@inproceedings{li2022self,
+  title={Self-Distillation with Meta Learning for Knowledge Graph Completion},
+  author={Li, Yunshui and Liu, Junhao and Yang, Min and Li, Chengming},
+  booktitle={Findings of the Association for Computational Linguistics: EMNLP 2022},
+  pages={2048--2054},
+  year={2022}
+}
+```
 
 ## Get Started
 
